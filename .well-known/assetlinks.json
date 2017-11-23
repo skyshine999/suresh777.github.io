@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.sgorle.dummyapplink",
+    "sha256_cert_fingerprints":
+    ["DC:4A:6D:3D:C6:99:0B:D8:B1:49:D1:80:D1:16:75:5D:2A:BD:62:EB:7F:CD:DA:14:58:F6:9F:1A:19:17:1F:D1"]
+  }
+}]
